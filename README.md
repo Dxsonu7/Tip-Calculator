@@ -1,9 +1,4 @@
 # Tip-Calculator
-# AND101 Project 4 - CodeMath
-
-Submitted by: **Sonu Gupta**
-
-Time spent: **5** hours spent in total
 
 ## Summary
 
